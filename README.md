@@ -1,7 +1,7 @@
 # BDMProject
 Data-driven analysis to improve sales and inventory management for a local electrical retailer.
 
-##**Project Overview**
+#**Project Overview**
 This capstone project was completed as part of the Business Data Management (BDM) course under the IIT Madras Data Science Diploma program.
 The project focuses on Popular Electricals and Saniwares, a local retail store in Erattupetta, Kerala. The business has been facing challenges such as declining sales, inefficient inventory management, and increasing competition from online markets.
 To address these issues, sales and inventory data from Tally (March–August 2024) was analyzed using Microsoft Excel.
